@@ -15,8 +15,8 @@
         android:background="@color/fondo"
         android:orientation="horizontal">
         <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
             android:src="@drawable/dibu"/>
         <LinearLayout
             android:layout_width="wrap_content"
@@ -44,8 +44,8 @@
         android:background="@color/fondo"
         android:orientation="horizontal">
         <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
             android:src="@drawable/dibuj"/>
         <LinearLayout
             android:layout_width="wrap_content"
@@ -74,7 +74,7 @@
         android:orientation="horizontal">
         <ImageView
             android:layout_width="40dp"
-            android:layout_height="50dp"
+            android:layout_height="40dp"
             android:src="@drawable/dihh"/>
         <LinearLayout
             android:layout_width="wrap_content"
@@ -102,8 +102,8 @@
         android:background="@color/fondo"
         android:orientation="horizontal">
         <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
             android:src="@drawable/tttdi"/>
         <LinearLayout
             android:layout_width="wrap_content"
@@ -155,7 +155,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:padding="50dp"
+            android:padding="80dp"
             android:src="@drawable/fffssqq"/>
         <LinearLayout
             android:layout_width="match_parent"
@@ -180,8 +180,8 @@
 
             </LinearLayout>
             <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:src="@drawable/Untitled"/>
         </LinearLayout>
     </LinearLayout>
